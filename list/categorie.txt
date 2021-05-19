@@ -1,0 +1,10 @@
+Diritto
+Informatica
+Giallo
+Thriller
+Horror
+Fantasy
+Fantascienza
+Romanzo
+Storia
+Biografia

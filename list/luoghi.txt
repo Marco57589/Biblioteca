@@ -1,0 +1,143 @@
+Rome
+Milan
+Naples
+Turin
+Palermo
+Genoa
+Bologna
+Florence
+Bari
+Catania
+Verona
+Venice
+Messina
+Padua
+Trieste
+Brescia
+Parma
+Taranto
+Prato
+Modena
+Reggio-
+Reggio-Emilia
+Perugia
+Ravenna
+Livorno
+Cagliari
+Rimini
+Foggia
+Salerno
+Ferrara
+Latina
+Sassari
+Monza
+Bergamo
+Syracuse
+Pescara
+Trento
+Forlì
+Vicenza
+Terni
+Bolzano
+Piacenza
+Novara
+Ancona
+Andria
+Arezzo
+Udine
+Cesena
+Pesaro
+Lecce
+Barletta
+Alessandria
+La Spezia
+Pisa
+Pistoia
+Guidonia Montecelio
+Lucca
+Catanzaro
+Brindisi
+Torre del Greco
+Treviso
+Busto Arsizio
+Como
+Marsala
+Grosseto
+Sesto San Giovanni
+Pozzuoli
+Varese
+Fiumicino
+CoriglianoRossano
+Casoria
+Asti
+Cinisello Balsamo
+Caserta
+Gela
+Aprilia
+Ragusa
+Pavia
+Cremona
+Carpi
+Quartu Sant'Elena
+Lamezia Terme
+Altamura
+Imola
+L’Aquila
+Massa
+Trapani
+Viterbo
+Cosenza
+Potenza
+Castellammare di Stabia
+Afragola
+Vittoria
+Crotone
+Pomezia
+Vigevano
+Carrara
+Caltanissetta
+Viareggio
+Fano
+Savona
+Matera
+Olbia
+Legnano
+Acerra
+Marano di Napoli
+Benevento
+Molfetta
+Agrigento
+Faenza
+Cerignola
+Moncalieri
+Foligno
+Manfredonia
+Tivoli
+Cuneo
+Trani
+Bisceglie
+Bitonto
+Bagheria
+Anzio
+Portici
+Modica
+Sanremo
+Avellino
+Teramo
+Montesilvano
+Siena
+Gallarate
+Velletri
+Cava de' Tirreni
+San Severo
+Aversa
+Ercolano
+Civitavecchia
+Acireale
+Mazara del Vallo
+Rovigo
+Pordenone
+Battipaglia
+Rho
+Chieti
+Scafati
