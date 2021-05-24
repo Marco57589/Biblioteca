@@ -249,8 +249,9 @@ class sqlMain():
                     print("----------------------------------------")
                     print("Autore:\n")
                     for x in range(len(row)):
-                        print(colDescr[x]+" > "+str(row[x]))
-                selezione = i.idAutoreValidation("Ho trovato più corrispondenze, quale vuoi eliminare? (Inserisci l'id) ")                   
+                        print(colDescr[x]+" > "+str(row[x]))                  
+                print("Ho trovato più corrispondenze, quale vuoi eliminare? (Inserisci l'id)")      
+                selezione = i.idAutoreValidation()                
                 query+= "id like '"+selezione+"'"
         
             else:
@@ -310,7 +311,8 @@ class sqlMain():
                     print("Autore:\n")
                     for x in range(len(row)):
                         print(colDescr[x]+" > "+str(row[x]))
-                selezione = i.idAutoreValidation("Ho trovato più corrispondenze, inserisci l'id ")                   
+                print("Ho trovato più corrispondenze, inserisci l'id ")          
+                selezione = i.idAutoreValidation()                  
                 query += "id like '"+selezione+"'"  
                 query2 += "id like '"+selezione+"'" 
             else:
@@ -379,7 +381,8 @@ class sqlMain():
                     print("Utente:\n")
                     for x in range(len(row)):
                         print(colDescr[x]+" > "+str(row[x]))
-                selezione = i.tesseraUtenteValidation("Ho trovato più corrispondenze, quale vuoi eliminare? (Inserisci la tessera) ")                   
+                print("Ho trovato più corrispondenze, quale vuoi eliminare? (Inserisci la tessera) ")     
+                selezione = i.tesseraUtenteValidation()                
                 query+= "tessera like '"+selezione+"'"
         
             else:
