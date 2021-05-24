@@ -70,7 +70,8 @@ class Main():
           
     def loginUtente():
         while True:
-            tessera = i.tesseraUtenteValidation("Effettua l'accesso all'area utente (inserisci il numero della tua tessera) > ")
+            print("Effettua l'accesso all'area utente (inserisci il numero della tua tessera) > ")    
+            tessera = i.tesseraUtenteValidation()
             n = u.Utente.trovaUtente(tessera)
             if n > 0:
                 m.Main.menuUtente(tessera)
